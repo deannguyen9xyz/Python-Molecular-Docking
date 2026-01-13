@@ -1,7 +1,16 @@
 # Python-Molecular-Docking
 A Python-based structural bioinformatics pipeline for high-throughput molecular docking using AutoDock Vina. This project automates the workflow from ligand preparation (Meeko) to binding affinity quantification and chemical interaction fingerprinting (ProLIF).
 
+---
 
+## ⚙️ Requirements
+Using Jupyter notebook for easy visualization. keep vina.exe and vina_split.exe in the same folder
+
+Install required libraries using:
+
+```
+pip install ....
+```
 ---
 
 ## 🎯 Purpose of This Project
