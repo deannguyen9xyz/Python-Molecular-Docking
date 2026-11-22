@@ -1,0 +1,13 @@
+jupyter
+requests
+pandas
+rcsb-api
+rdkit
+MDAnalysis
+nglview
+meeko
+pdb2pqr
+prolif
+# AutoDock Vina itself is a separate program: vina.exe and vina_split.exe (Windows)
+# are included in this repo; for other systems download them from
+# https://github.com/ccsb-scripps/AutoDock-Vina/releases

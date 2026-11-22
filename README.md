@@ -4,12 +4,12 @@ A Python-based structural bioinformatics pipeline for high-throughput molecular 
 ---
 
 ## ⚙️ Requirements
-Using Jupyter notebook for easy visualization. keep vina.exe and vina_split.exe in the same folder
+Using Jupyter notebook for easy visualization. Keep vina.exe and vina_split.exe in the same folder as the notebook (Windows builds are included; for other systems download them from the [AutoDock Vina releases](https://github.com/ccsb-scripps/AutoDock-Vina/releases)).
 
 Install required libraries using:
 
 ```
-pip install ....
+pip install -r requirements.txt
 ```
 ---
 
